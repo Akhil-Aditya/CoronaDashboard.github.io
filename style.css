@@ -76,12 +76,12 @@ ul{
 .box li{
 
   .center{
-    height: 10vh;
+    height: 20vh;
     display: flex;
   }
   a{
-    height:100px ;
-    weight:100px; background color:#2d3436;
+    height:200px ;
+    weight:200px; background color:#2d3436;
     margin: 10px;
     border-radius: 50px;
     box-shadow: 1px 4px 2px 2px 6c5ce7;
@@ -93,7 +93,7 @@ ul{
 .box li a{
   color: #ecf0f1;
   text-decoration: none;
-  font-size: 60px;
+  font-size: 100px;
   transition: all ease-in-out 1000ms;
 }
 .box li a:hover{
