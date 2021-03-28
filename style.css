@@ -105,9 +105,9 @@ ul{
   color: #f1c40f;
 }
 .footer{
-  position: fixed;
+  position: cover;
   left: 0px;
-  bottom: 20px;
+  bottom: 0px;
   right:0px;
   height: 30px;
   width:100%;
