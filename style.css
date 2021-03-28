@@ -41,9 +41,9 @@ body{
   background-size:  auto;
 }
 .box{
-  width: 1000px;
+  width: 500px;
   background: rgba(0, 0, 0, 0.4);
-  padding: 50px;
+  padding: 20px;
   text-align: center;
   margin: auto;
   margin-top: 2%;
