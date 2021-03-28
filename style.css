@@ -116,7 +116,7 @@ ul{
   position: relative;
   width: calc(300px-20px);
   height: calc(200px-20px);
-  background: #ff0;
+  background: white;
   float: none;
   margin: auto;
   box-sizing: border-box;
