@@ -50,7 +50,7 @@ body{
   font-family: 'roman',sans-serif;
 }
 .box-img{
-  border-radius: 150%;
+  border-radius: 100%;
   width: 500px;
   height: 500px;
 }
