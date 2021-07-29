@@ -40,12 +40,12 @@ body{
   background-size:  auto;
 }
 .box{
-  width: 200px;
+  width: 500px;
   background: rgba(0, 0, 0, 0.4);
-  padding: 20px;
+  padding: 50px;
   text-align: center;
   margin: auto;
-  margin-top: 10%;
+  margin-top: 2%;
   color: white;
   font-family: 'roman',sans-serif;
 }
