@@ -1,0 +1,43 @@
+.body{
+    background-color: grey;
+	color : white;
+}
+
+.body_content{
+    padding-top: 50px;
+    padding-left: 200px !important;
+    background-color: lightgray;
+}
+
+.component1{
+    padding-bottom: 50px;
+
+}
+
+.component2{
+    margin-left: 100px;
+}
+
+.component3{
+    padding-top: 40px;
+}
+.btn{
+    float: right;
+    color: white;
+    margin-right: 400px;
+    background-color: cyan;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 30px;
+}
+
+.btn_back{
+    background-color: cyan;
+    border-radius: 20px;
+    width: 100px;
+    height: 50px;
+    margin-bottom: 30px;
+
+
+}
