@@ -33,10 +33,11 @@
   font-weight: 500;
 }
 body{
-  position: fixed;
+  position: inherit;
   min-width: 100%;
   min-height: 100%;
   margin:0;
+
   background: url(PicsArt_07-30-02.17.57.jpg) no-repeat;
   background-size:  auto;
 }
