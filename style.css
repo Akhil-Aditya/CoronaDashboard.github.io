@@ -39,7 +39,9 @@ body{
   margin:0;
 
   background: url(1522.jpg) ;
-  background: no-repeat;
+  background: no-repeat center center fixed;
+  -webkit-background-size:cover;
+  -o-background-size:cover;
   background-size:  cover;
 }
 .box{
