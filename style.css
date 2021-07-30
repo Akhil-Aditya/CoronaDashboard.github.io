@@ -146,7 +146,7 @@ ul{
   font-weight: 500;
 }
 .footer_a{
-  position:  fixed;
+  position: absolute;
   left: 0px;
   bottom: 0px;
   right:0px;
