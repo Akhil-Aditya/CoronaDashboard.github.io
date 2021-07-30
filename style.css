@@ -34,10 +34,11 @@
 }
 body{
   position: inherit;
+    background-color:lightgray;
   min-width: 100%;
   min-height: 100%;
   margin:0;
-  background-color: #8A2BE2;
+
   background: no-repeat center center fixed;
   -webkit-background-size:cover;
   -o-background-size:cover;
