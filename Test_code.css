@@ -21,16 +21,6 @@
 .component3{
     padding-top: 40px;
 }
-.btn{
-    float: right;
-    color: white;
-    margin-right: 400px;
-    background-color: cyan;
-    border-radius: 20px;
-    width: 100px;
-    height: 50px;
-    margin-bottom: 30px;
-}
 
 .btn_back{
     background-color: cyan;
