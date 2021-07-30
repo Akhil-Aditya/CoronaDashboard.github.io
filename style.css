@@ -122,8 +122,8 @@ ul{
     margin-bottom: 30px;
 }
 .btn_back{
-    float:right;
-    color: Black;
+    float:left;
+    color: gray;
     background-color: black;
     border-radius: 20px;
     width: 100px;
