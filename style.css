@@ -38,8 +38,9 @@ body{
   min-height: 100%;
   margin:0;
 
-  background: url(1522.jpg) no-repeat;
-  background-size:  auto;
+  background: url(1522.jpg) ;
+  background: no-repeat;
+  background-size:  300px 100px;
 }
 .box{
   width: 500px;
